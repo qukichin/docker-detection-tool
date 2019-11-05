@@ -1,0 +1,27 @@
+# maintainers file
+
+#
+[Org]
+	[Org."Core maintainers"]
+		people = [
+			"diogomonica",
+			"konstruktoid",
+		]
+
+[people]
+
+# A reference list of all people associated with the project.
+# All other sections should refer to people by their canonical key
+# in the people section.
+
+	# ADD YOURSELF HERE IN ALPHABETICAL ORDER
+
+	[people.diogomonica]
+	Name = "Dr. Diogo Mónica"
+	Email = "diogo@docker.com"
+	GitHub = "diogomonica"
+
+	[people.konstruktoid]
+	Name = "Thomas Sjögren"
+	Email = "thomas.sjogren@protonmail.com"
+	GitHub = "konstruktoid"
