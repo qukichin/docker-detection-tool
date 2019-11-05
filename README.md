@@ -8,4 +8,4 @@
 # cd docker_detection_tool/
 # sh docker-bench-security.sh 
 ```
-![avatar](https://github.com/qukichin/docker_detection_tool/blob/master/print.png)
+![avatar](https://raw.githubusercontent.com/qukichin/docker_detection_tool/master/print.png)
